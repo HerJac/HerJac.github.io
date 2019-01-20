@@ -1,0 +1,94 @@
+body, html {
+	margin:0;
+}
+.headeris {
+	height: 100px;
+	width: 100%;
+	background-color: gray;
+	
+}
+.pas {
+	height: 100px;
+	width: 150px;
+	float: right;
+	display:inline-block;
+	font-size: 24px;
+	line-height: 100px;
+	text-align: center;
+}
+
+.log{
+	height: 100px;
+	width: 150px;
+	float: left;
+}
+.tekstas {
+	float: right;
+	margin: auto;
+	width: 50%;
+	height: 100%;
+	font-size: 30px;
+	background-color: white;
+	font-size: 16px;
+}
+.img {
+	float: left;
+	margin: auto;
+	border:1px solid black;	
+	width: 49%;
+	height: 100%;
+	font-size: 30px;
+	background-color: white;
+	}
+.main{
+	height: 100%;
+	width: 100%;
+	background-color: green;
+}
+.boxas {
+	float: center;
+	margin: auto;
+	border:5px solid black;	
+	width: 50%;
+	height: 30%;
+	font-size: 30px;
+	background-color: white;
+}
+.pass{
+	height: 100px;
+	width: 150px;
+	display:inline-block;
+	font-size: 40px;
+	float: center;
+	line-height: 100px;
+	text-align: center;
+}
+.boxa {
+	float: center;
+	margin: auto;
+	border:5px solid black;	
+	width: 50%;
+	height: 40%;
+	font-size: 30px;
+	background-color: white;
+}
+.teksta {
+	float: right;
+	margin: auto;
+	width: 100%;
+	height: 100%;
+	font-size: 30px;
+	background-color: white;
+	font-size: 16px;
+}
+.box {
+	float: center;
+	margin: auto;
+	border:5px solid black;	
+	width: 25%;
+	height: 40%;
+	font-size: 30px;
+	background-color: white;
+}
+
+
